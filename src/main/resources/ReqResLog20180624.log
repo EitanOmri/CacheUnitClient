@@ -1,0 +1,157 @@
+ιεπ 24, 2018 3:06:33 PM com.hit.view.CacheUnitView$2 actionPerformed
+REQUEST: {
+    "headers": {
+      "action": "DELETE"
+      },
+      "body": [
+          {"dataModelId":1, "content":null},
+          {"dataModelId":12, "content":null},
+          {"dataModelId":27, "content":null},
+          {"dataModelId":55, "content":null},
+          {"dataModelId":70, "content":null},
+          {"dataModelId":98, "content":null},
+          {"dataModelId":123, "content":null},
+          {"dataModelId":147, "content":null},
+          {"dataModelId":159, "content":null},
+          {"dataModelId":169, "content":null},
+          {"dataModelId":177, "content":null},
+          {"dataModelId":178, "content":null},
+          {"dataModelId":183, "content":null},
+          {"dataModelId":207, "content":null},
+          {"dataModelId":209, "content":null},
+          {"dataModelId":222, "content":null},
+          {"dataModelId":243, "content":null},
+          {"dataModelId":245, "content":null},
+          {"dataModelId":269, "content":null},
+          {"dataModelId":270, "content":null},
+          {"dataModelId":294, "content":null},
+          {"dataModelId":304, "content":null},
+          {"dataModelId":315, "content":null},
+          {"dataModelId":332, "content":null},
+          {"dataModelId":344, "content":null},
+          {"dataModelId":360, "content":null},
+          {"dataModelId":362, "content":null},
+          {"dataModelId":376, "content":null}
+      ] 
+ }
+ιεπ 24, 2018 3:06:37 PM com.hit.view.CacheUnitView updateUIData
+RESPONSE: delete-true
+ιεπ 24, 2018 3:06:37 PM com.hit.view.CacheUnitView$2 actionPerformed
+REQUEST: {
+    "headers": {
+      "action": "UPDATE"
+      },
+      "body": [
+          {"dataModelId":1, "content":"lso1SToaoeG9BO6zy2 O5Gb KqZec"},
+          {"dataModelId":30, "content":"prIHx8Xm0Zl4Wc"},
+          {"dataModelId":55, "content":"Rkdu5ddM"},
+          {"dataModelId":73, "content":"l"},
+          {"dataModelId":85, "content":"KYi8xH bqVZuG"},
+          {"dataModelId":98, "content":"sg3uTvxnizMAaGtOt6FT onzpZ4"},
+          {"dataModelId":113, "content":"oBuboIYqKgEM"},
+          {"dataModelId":116, "content":"V60SaNX"},
+          {"dataModelId":125, "content":"oV8J8b2oI7cm9A1q4rrOWnwQmV"},
+          {"dataModelId":142, "content":"FJAeOopZ38 PNQsyJdwy0w"},
+          {"dataModelId":168, "content":"UwIF"}
+      ] 
+ }
+ιεπ 24, 2018 3:06:40 PM com.hit.view.CacheUnitView updateUIData
+RESPONSE: update-true
+ιεπ 24, 2018 3:06:40 PM com.hit.view.CacheUnitView$2 actionPerformed
+REQUEST: {
+    "headers": {
+      "action": "DELETE"
+      },
+      "body": [
+          {"dataModelId":1, "content":null},
+          {"dataModelId":7, "content":null},
+          {"dataModelId":19, "content":null},
+          {"dataModelId":41, "content":null},
+          {"dataModelId":52, "content":null},
+          {"dataModelId":58, "content":null},
+          {"dataModelId":72, "content":null},
+          {"dataModelId":102, "content":null},
+          {"dataModelId":115, "content":null},
+          {"dataModelId":136, "content":null},
+          {"dataModelId":137, "content":null},
+          {"dataModelId":145, "content":null},
+          {"dataModelId":152, "content":null},
+          {"dataModelId":158, "content":null},
+          {"dataModelId":173, "content":null},
+          {"dataModelId":185, "content":null},
+          {"dataModelId":197, "content":null},
+          {"dataModelId":202, "content":null},
+          {"dataModelId":228, "content":null},
+          {"dataModelId":231, "content":null},
+          {"dataModelId":250, "content":null},
+          {"dataModelId":262, "content":null},
+          {"dataModelId":281, "content":null},
+          {"dataModelId":307, "content":null},
+          {"dataModelId":324, "content":null},
+          {"dataModelId":325, "content":null},
+          {"dataModelId":340, "content":null},
+          {"dataModelId":369, "content":null},
+          {"dataModelId":375, "content":null},
+          {"dataModelId":383, "content":null},
+          {"dataModelId":391, "content":null},
+          {"dataModelId":408, "content":null},
+          {"dataModelId":421, "content":null},
+          {"dataModelId":437, "content":null},
+          {"dataModelId":445, "content":null},
+          {"dataModelId":467, "content":null}
+      ] 
+ }
+ιεπ 24, 2018 3:06:44 PM com.hit.view.CacheUnitView updateUIData
+RESPONSE: delete-true
+ιεπ 24, 2018 3:06:44 PM com.hit.view.CacheUnitView$2 actionPerformed
+REQUEST: {
+    "headers": {
+      "action": "UPDATE"
+      },
+      "body": [
+          {"dataModelId":1, "content":"pmsqF6CMNg"},
+          {"dataModelId":30, "content":"gmwVcC0bX"},
+          {"dataModelId":58, "content":"msMMhnQQcZA "},
+          {"dataModelId":75, "content":"LkNsQoQiHf8JBL UX7o0qkDqz"},
+          {"dataModelId":103, "content":"xtfdieOycl6it"},
+          {"dataModelId":114, "content":"KaeY1GAE4WjOo0WX X frehP"},
+          {"dataModelId":116, "content":"Qn1"},
+          {"dataModelId":131, "content":"G8BKdBB5WcULmVbX8OFFb8mk"},
+          {"dataModelId":151, "content":"EHn0NwIzHiwwQBpF7sqgW u8Mb"},
+          {"dataModelId":170, "content":"vR5iQy8PVM1 DS"},
+          {"dataModelId":179, "content":"f 0stkQ6jpThnc"},
+          {"dataModelId":197, "content":"gh "},
+          {"dataModelId":206, "content":"KIft7Q1xbJ5zi7fbFgwq k5W1t nK"},
+          {"dataModelId":209, "content":"8U1"},
+          {"dataModelId":211, "content":"qP"},
+          {"dataModelId":225, "content":"JVi Cb2"},
+          {"dataModelId":253, "content":"3N4bWFZug6Wmdi5ZBZae9zIWA2Kgbf"},
+          {"dataModelId":274, "content":"LcbgHkbYso9L9"},
+          {"dataModelId":282, "content":"Y1lU"},
+          {"dataModelId":307, "content":"3chog mPmFOD07wbgeP"},
+          {"dataModelId":323, "content":"Rge9cRwZRHV4q2Ocbsy"},
+          {"dataModelId":352, "content":"g HR"},
+          {"dataModelId":380, "content":"26"},
+          {"dataModelId":405, "content":"g4sFA1Nq7 xq1s0qjpMt5jQO6"},
+          {"dataModelId":414, "content":"v"},
+          {"dataModelId":437, "content":"jHuGe5Y b5eqNbfcFx4OHB"},
+          {"dataModelId":454, "content":"5M2Ofk1N6bZE7n5Jmit"},
+          {"dataModelId":482, "content":"dkcmZV871jFyIwRy"},
+          {"dataModelId":498, "content":"cVr0 EcvQ6k593ZG6cwXH4"},
+          {"dataModelId":515, "content":"LBcFM ian4nCoB4IcpMoFxlqc s2n "},
+          {"dataModelId":544, "content":"7Bd44NQ27O9HGufwpfRdEgRaitj"},
+          {"dataModelId":548, "content":"4TpkohrB5k6vC2yvCXb9gNB0"},
+          {"dataModelId":573, "content":"soqoKET6UDYZFKbm60Nso5E"},
+          {"dataModelId":588, "content":"MULNua3otcjp"},
+          {"dataModelId":605, "content":"QoFisrFh2hkYawlftbvoFvxo b"},
+          {"dataModelId":635, "content":"n"},
+          {"dataModelId":644, "content":"wzLs4N"},
+          {"dataModelId":659, "content":"lUis"},
+          {"dataModelId":682, "content":"z3rcbsNS0Q"},
+          {"dataModelId":700, "content":"6rGieFXJNvGhRnD5p3nfsGF4gcOi"},
+          {"dataModelId":708, "content":"R2VdEns3kNLJZT6DOWf7dmyM3Im"},
+          {"dataModelId":730, "content":"b8hDyqM6lPq"},
+          {"dataModelId":738, "content":"O18NOFNbWD"},
+          {"dataModelId":755, "content":"yPiriXEwb7DDnNWPwMNc79htngZWI"}
+      ] 
+ }
